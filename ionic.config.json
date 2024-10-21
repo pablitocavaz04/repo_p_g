@@ -1,0 +1,7 @@
+{
+  "name": "repo_p_g",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
