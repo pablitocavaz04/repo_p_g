@@ -1,6 +1,5 @@
 import { Component, inject, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { SharedModule } from '../share/share.module';
 
 @Component({
   selector: 'app-folder',
